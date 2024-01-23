@@ -5,7 +5,7 @@ description: A listing of all resources for the course
 ---
 
 # Course Textbook
-This course does not have a required textbook. 
+The course uses the textbook: Computer Networks: A Systems Approach (5th Edition) by Larry Peterson and Bruce Davie. The e-book version of this textbook is available at the [Cornell library](https://www.library.cornell.edu/).
 
-# Optional Reference Books
+
 
