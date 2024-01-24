@@ -5,5 +5,5 @@ email: aditya@cs.cornell.edu
 website: https://adityanathan.github.io
 photo: aditya.jpg
 meta:
-  Office Hours: 
+  Office Hours: Gates G23F, 10 - 11 AM
 ---
