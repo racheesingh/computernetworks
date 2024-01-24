@@ -5,5 +5,5 @@ email: oja7@cornell.edu
 website: https://www.linkedin.com/in/osayamenaimuyo/
 photo: aimuyo.jpg
 meta:
-  Office Hours: G33, TBD
+  Office Hours: Gates G33, Tuesdays 12-2 PM
 ---
