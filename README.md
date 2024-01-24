@@ -20,6 +20,9 @@ the rise of cloud computing, warehouse-scale datacenters etc.
 # Logistics of the course
 The class meets on Mondays and Wednesdays at Klarman Hall KG70 from 2.55 PM to 4.10 PM.
 
+# Course Syllabus
+[Here](assets/syllabus/CS4450:CS5456-syllabus.pdf) is the course syllabus.
+
 # Grading Policy
 Your course grade is decided based on the following:
 1. Prelim Exam 1 (20%)
