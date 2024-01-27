@@ -5,5 +5,5 @@ email: kc874@cornell.edu
 website: https://www.linkedin.com/in/kenneth-cula-970492199/
 photo: ken.jpg
 meta:
-  Office Hours: Rhodes 408, Thursdays 4-5pm; Rhodes 406, Fridays 3-4pm
+Office Hours: Rhodes 408, Thursdays 4-6pm
 ---
