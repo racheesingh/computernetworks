@@ -7,3 +7,7 @@ Jan 22
   : [Optional Reading: Brief history of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
 
 
+Jan 24
+: [Circuit vs. Packets](https://canvas.cornell.edu/files/9812971/download?download_frd=1)
+  : [Optional Reading: P&D, Section 1.2	]()
+
