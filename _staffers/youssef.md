@@ -5,5 +5,5 @@ email: ya79@cornell.edu
 website: 
 photo: youssef.jpeg
 meta:
-  Office Hours: Rhodes 412, Tuesdays 1:30-2:30pm; Rhodes 404, Fridays 2:30-3:30pm
+  Office Hours: Rhodes 574, Mondays 10-11am; Rhodes 400, Mondays 11am-12pm
 ---
