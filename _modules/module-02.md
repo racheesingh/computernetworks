@@ -3,7 +3,7 @@ title: Module  2 - Gut of the network (physical layer and data link layer)
 ---
 
 Feb 05
-: [Physical layer -- Fiber Optics]()
+: [Physical layer -- Fiber Optics](https://canvas.cornell.edu/files/9895115/download?download_frd=1)
   : **Homework 1 Released**{: .label .label-purple }[]()
 
 
