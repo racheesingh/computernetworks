@@ -4,7 +4,7 @@ title: Module  2 - Gut of the network (physical layer and data link layer)
 
 Feb 05
 : [Physical layer -- Fiber Optics](https://canvas.cornell.edu/files/9895115/download?download_frd=1)
-  : **Homework 1 Released**{: .label .label-purple }[]()
+  : **Homework 1 Released**{: .label .label-purple }[Homework 1](https://canvas.cornell.edu/files/9902711/download?download_frd=1)
 
 
 Feb 07
@@ -23,10 +23,10 @@ Feb 14
 
 
 Feb 19
-: [Prelim review]()
+: [Data Link Layer -- Spanning Tree Protocol (continued)]()
   : **HW 1 due**{: .label .label-red }**Homework 2 Released**{: .label .label-purple }[]()
 
-Feb 19
+Feb 21
 : [Prelim 1]()
   : **Prelim Exam**{: .label .label-red}[]()
 
