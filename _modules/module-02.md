@@ -26,6 +26,10 @@ Feb 19
 : [Data Link Layer -- Spanning Tree Protocol (continued)]()
   : **HW 1 due**{: .label .label-red }**Homework 2 Released**{: .label .label-purple }[]()
 
+Feb 19
+: [Prelim 1 Review Session]()
+  : 7 - 9 PM, Gates G01
+
 Feb 21
 : [Prelim 1]()
   : **Prelim Exam**{: .label .label-red}[]()
