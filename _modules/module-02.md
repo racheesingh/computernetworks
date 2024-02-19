@@ -8,22 +8,22 @@ Feb 05
 
 
 Feb 07
-: [Data Link Layer -- CSMA/CD]()
+: [Data Link Layer -- CSMA/CD](https://canvas.cornell.edu/files/9915537/download?download_frd=1)
   : [P&D, Section 2.5 & Section 2.6]()
 
 
 Feb 12
-: [Data Link Layer -- Ethernet]()
+: [Data Link Layer -- Ethernet](https://canvas.cornell.edu/files/9955388/download?download_frd=1)
   : [P&D, Section 3.2.1 & Section 3.2.2	]()
 
 
 Feb 14
-: [Data Link Layer -- Spanning Tree Protocol]()
+: [Data Link Layer -- Spanning Tree Protocol](https://canvas.cornell.edu/files/9974371/download?download_frd=1)
   : [P&D, Section 3.2.1 & Section 3.2.2	]()
 
 
 Feb 19
-: [Data Link Layer -- Spanning Tree Protocol (continued)]()
+: [Data Link Layer -- Spanning Tree Protocol (continued)](https://canvas.cornell.edu/files/10005496/download?download_frd=1)
   : **HW 1 due**{: .label .label-red }**Homework 2 Released**{: .label .label-purple }[]()
 
 Feb 19
