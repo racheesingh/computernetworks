@@ -24,7 +24,7 @@ Feb 14
 
 Feb 19
 : [Data Link Layer -- Spanning Tree Protocol (continued)](https://canvas.cornell.edu/files/10005496/download?download_frd=1)
-  : **HW 1 due**{: .label .label-red }**Homework 2 Released**{: .label .label-purple }[]()
+  : **HW 1 due**{: .label .label-red }[]()
 
 Feb 19
 : [Prelim 1 Review Session]()

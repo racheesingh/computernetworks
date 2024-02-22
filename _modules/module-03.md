@@ -8,11 +8,11 @@ Feb 26
 
 Feb 28
 : [Fundamentals of routing](P&D, Section 3.3) 
-  : [P&D, Section 3.3]()
+  : **Homework 2 Released**{: .label .label-purple }[]()
 
 Mar 04
 : [Link State Routing]()
-  : **HW 2 due**{: .label .label-red }**Homework 3 Released**{: .label .label-purple }[P&D, Section 3.2, Section 3.4]()
+  : [P&D, Section 3.2, Section 3.4]()
 
 Mar 06
 : [Distance Vector Routing]()
@@ -20,7 +20,7 @@ Mar 06
 
 Mar 11
 : [BGP]()
-  : [P&D, Section 3.2, Section 3.4]()
+  :  **HW 2 due**{: .label .label-red }**Homework 3 Released**{: .label .label-purple }[]()
 
 Mar 13
 : [BGP]()
@@ -32,14 +32,14 @@ Mar 18
 
 Mar 20
 : [Practical realities: switches and routers]()
-  : [P&D, Section 3.2, Section 3.4]()
+  : **HW 3 due**{: .label .label-red } [P&D, Section 3.2, Section 3.4]()
 
 Mar 25
 : [Practical realities: switches and routers]()
   : [P&D, Section 3.2, Section 3.4]()
 
-Marc 25
-: [Prelim 1 Review Session]()
+Mar 25
+: [Prelim 2 Review Session]()
   : 7 - 9 PM, Gates G01
 
 Mar 27
