@@ -27,15 +27,15 @@ April 17
 : [DNS]()
   : []()
 
-April 22
+Apr 22
 : [Access networks]()
   : []()
 
-April 24
+Apr 24
 : [Networking for ML workloads]()
   : []()
 
-April 29
+Apr 29
 : [Host Networking]()
   : []()
 
