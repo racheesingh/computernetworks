@@ -7,9 +7,13 @@ Feb 26
   : [February break]()
 
 Feb 28
-: [Fundamentals of routing](P&D, Section 3.3) 
-  : **Homework 2 Released**{: .label .label-purple }[]()
+: [Fundamentals of routing]() 
+  : [P&D, Section 3.3]()
 
+Mar 01
+: **Homework 2 Released**{: .label .label-purple }[]()
+ : []()
+ 
 Mar 04
 : [Link State Routing]()
   : [P&D, Section 3.2, Section 3.4]()
@@ -20,11 +24,15 @@ Mar 06
 
 Mar 11
 : [BGP]()
-  :  **HW 2 due**{: .label .label-red }**Homework 3 Released**{: .label .label-purple }[]()
+  :  []()
 
 Mar 13
 : [BGP]()
   : [P&D, Section 3.2, Section 3.4]()
+
+Mar 15
+: **HW 2 due**{: .label .label-red }[]()
+ : []() 
 
 Mar 18
 : [BGP]()
@@ -32,7 +40,7 @@ Mar 18
 
 Mar 20
 : [Practical realities: switches and routers]()
-  : **HW 3 due**{: .label .label-red } [P&D, Section 3.2, Section 3.4]()
+  : [P&D, Section 3.2, Section 3.4]()
 
 Mar 25
 : [Practical realities: switches and routers]()

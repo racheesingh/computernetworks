@@ -12,7 +12,7 @@ April 3
 
 April 8
 : [Reliable Transport]()
-  : **Homework 4 Released**{: .label .label-purple } []()
+  :  []()
 
 
 April 10
@@ -49,4 +49,4 @@ May 6
 
 May 11
 : []()
-  : **HW 4 due**{: .label .label-red } []()
+  : []()
