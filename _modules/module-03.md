@@ -1,5 +1,5 @@
 ---
-title: Module  3 - Gut of the network (Network Layer))
+title: Module  3 - Gut of the network (Network Layer)
 ---
 
 Feb 26
