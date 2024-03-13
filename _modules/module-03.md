@@ -43,12 +43,12 @@ Mar 20
   : [P&D, Section 3.2, Section 3.4]()
 
 Mar 25
-: [Practical realities: switches and routers]()
+: [Practical realities: switches and routers (continued)]()
   : [P&D, Section 3.2, Section 3.4]()
 
 Mar 25
 : [Prelim 2 Review Session]()
-  : 7 - 9 PM, Gates G01
+  : 7.30 - 930 PM, Gates G01
 
 Mar 27
 : [Prelim 2]()
