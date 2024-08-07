@@ -8,7 +8,7 @@ title: CS 4450/5456
 tagline: Introduction to Computer Networks
 description: 
 author: Rachee Singh
-baseurl: '/computernetworks' 
+baseurl: '/computernetworksp-sp24' 
 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
